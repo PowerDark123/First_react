@@ -1,6 +1,6 @@
-.container{
-  text-align: center;
+i{
+  cursor: pointer;
 }
-p, div.happy{
-  font-size: 5rem;
+i:hover{
+  transform: scale(1.3);
 }
